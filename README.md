@@ -23,6 +23,6 @@ Free, one-job Grok Bot templates for small-business owners. Each template does o
 - Safety, legal and money decisions stay with you.
 
 ## More
-Step-by-step setup guides for these and other small-business jobs: [whatshouldmybotdo.com](https://whatshouldmybotdo.com/?utm_source=github&utm_medium=referral&utm_campaign=grokbot_templates_repo)
+Step-by-step setup guides for these and other small-business jobs: [whatshouldmybotdo.com](https://whatshouldmybotdo.com/?utm_source=github_readme&utm_medium=referral&utm_campaign=chanlab&utm_content=c14)
 
 Independent project, not affiliated with xAI. Templates are MIT licensed (see [LICENSE](LICENSE)).
