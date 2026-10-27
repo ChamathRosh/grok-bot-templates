@@ -1,6 +1,6 @@
 # Grok Bot templates for small businesses
 
-**Grok Bot templates** are ready-made instructions you paste into a new, empty Grok Bot so it starts working on a specific small-business task right away. This repo holds 6 free, MIT-licensed templates from [WhatShouldMyBotDo](https://whatshouldmybotdo.com): a planner that picks your first AI agent, plus templates for chasing quotes, replying to missed calls, drafting review replies, nudging unpaid invoices and writing a morning brief. Every template **only drafts**: it never sends, posts, pays or contacts anyone without your yes.
+**Grok Bot templates** are ready-made instructions you paste into a new, empty Grok Bot so it starts working on a specific small-business task right away. This repo holds 6 free, MIT-licensed templates from [WhatShouldMyBotDo](https://whatshouldmybotdo.com/?utm_source=github&utm_campaign=chanlab&utm_content=c98): a planner that picks your first AI agent, plus templates for chasing quotes, replying to missed calls, drafting review replies, nudging unpaid invoices and writing a morning brief. Every template **only drafts**: it never sends, posts, pays or contacts anyone without your yes.
 
 ## The templates and their use cases
 
